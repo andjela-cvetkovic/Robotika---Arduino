@@ -23,5 +23,5 @@ Ultrazvučni senzor meri udaljenost objekta od kante. Kada se objekat približi 
 U repozitorijumu se nalazi video snimak koji prikazuje rad pametne kante.
 
 Radile:
-Anđela Cvetković
+Anđela Cvetković, 
 Danica Kovačević
